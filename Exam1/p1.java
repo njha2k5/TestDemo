@@ -13,7 +13,7 @@ public class p1 {
 	}
 	protected void pro()
 	{
-		String gender = "Male";
+		String gender = "Shashank";
 		String gender1 = "female";
 		System.out.println("This is gender information   : " +gender+ " \n This is gender information  :  "+gender1);
 	}
